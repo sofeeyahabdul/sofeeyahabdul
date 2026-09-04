@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sofeeyahabdul
+- 👋 Hi, I’m @sofeeyah abdulquadri
 - 👀 I’m interested in cyber security as a profession
 - 🌱 I’m currently learning cyber security basics
 - 💞️ I’m looking to collaborate on cyber security projects
